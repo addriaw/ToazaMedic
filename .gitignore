@@ -1,0 +1,33 @@
+# dependencies
+node_modules
+
+# next
+.next
+out
+
+# prisma
+dev.db
+dev.db-journal
+
+# env
+.env
+.env.local
+
+# logs
+npm-debug.log*
+yarn-debug.log*
+yarn-error.log*
+
+# vscode
+.vscode
+
+# system
+.DS_Store
+Thumbs.db
+
+# generated
+src/generated
+
+# build
+dist
+build
